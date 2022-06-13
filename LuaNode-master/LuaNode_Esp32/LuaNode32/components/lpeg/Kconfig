@@ -1,0 +1,9 @@
+menu "lpeg"
+
+config LPEG_ENABLE
+    bool "Enable lpeg"
+    default "y"
+    help
+        For lpeg.
+
+endmenu

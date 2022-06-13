@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ESP32多控件PWM调节</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href="favicon.png">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="topnav">
+        <h1>ESP32多控件PWM调光控制</h1>
+    </div>
+    <div class="content">
+        <div class="card-grid">
+            <div class="card">
+                <p class="card-title">GPIO 12控制</p>
+                <p class="switch">
+                    <input type="range" onchange="updateSliderPWM(this)" id="slider1" min="0" max="100" step="1" value ="0" class="slider">
+                </p>
+                <p class="state">亮度: <span id="sliderValue1"></span> &percnt;</p>
+            </div>
+            <div class="card">
+                <p class="card-title"> GPIO 13控制</p>
+                <p class="switch">
+                    <input type="range" onchange="updateSliderPWM(this)" id="slider2" min="0" max="100" step="1" value ="0" class="slider">
+                </p>
+                <p class="state">亮度: <span id="sliderValue2"></span> &percnt;</p>
+            </div>
+            <div class="card">
+                <p class="card-title"> GPIO 14控制</p>
+                <p class="switch">
+                    <input type="range" onchange="updateSliderPWM(this)" id="slider3" min="0" max="100" step="1" value ="0" class="slider">
+                </p>
+                <p class="state">亮度: <span id="sliderValue3"></span> &percnt;</p>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

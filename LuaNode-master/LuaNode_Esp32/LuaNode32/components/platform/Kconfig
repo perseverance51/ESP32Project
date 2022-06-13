@@ -1,0 +1,9 @@
+menu "PLATFORM"
+
+config PLATFORM_ENABLE
+    bool "Enable platform"
+    default "y"
+    help
+        For platform.
+
+endmenu

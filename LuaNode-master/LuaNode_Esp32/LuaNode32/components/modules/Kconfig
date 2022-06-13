@@ -1,0 +1,9 @@
+menu "MODULES"
+
+config MODULES_ENABLE
+    bool "Enable modules"
+    default "y"
+    help
+        For modules.
+
+endmenu

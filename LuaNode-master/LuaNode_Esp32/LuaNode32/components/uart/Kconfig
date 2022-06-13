@@ -1,0 +1,9 @@
+menu "UART"
+
+config UART_ENABLE
+    bool "Enable uart"
+    default "y"
+    help
+        For uart.
+
+endmenu

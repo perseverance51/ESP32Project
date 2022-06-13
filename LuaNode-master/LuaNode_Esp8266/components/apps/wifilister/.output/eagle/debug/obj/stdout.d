@@ -1,0 +1,46 @@
+.output/eagle/debug/obj/stdout.o .output/eagle/debug/obj/stdout.d : stdout.c ../../include/esp8266.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/ctype.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/_ansi.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/newlib.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/config.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/machine/ieeefp.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/features.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/xtensa/config/core-isa.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/stdio.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/cdefs.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/machine/_default_types.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stddef.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdarg.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/reent.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/_ansi.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/_types.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/machine/_types.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/lock.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/types.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/machine/types.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/stdio.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/stdlib.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/machine/stdlib.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/alloca.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/string.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/string.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/include/espressif/c_types.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/stdint.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/libc/xtensa-lx106-elf/include/sys/_intsup.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/4.8.2/include/stdbool.h \
+ ../../include/ip_addr.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/include/espressif/espconn.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/ets_sys.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/c_types.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/eagle_soc.h \
+ ../../include/gpio.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/include/espressif/esp8266/eagle_soc.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/mem.h \
+ ../../include/user_interface.h ../../include/ip_addr.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/include/espressif/queue.h \
+ ../../include/user_config.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/include/espressif/spi_flash.h \
+ /mnt/share/LuaNode/LuaNode/LuaNode_Esp8266/include/espressif/c_types.h \
+ ../../include/espmissingincludes.h \
+ /opt/esp-open-sdk/xtensa-lx106-elf/xtensa-lx106-elf/sysroot/usr/include/eagle_soc.h \
+ ../../include/uart_hw.h
